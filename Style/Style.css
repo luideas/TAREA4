@@ -1,0 +1,118 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+.container-menu {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    background-color: black;
+    justify-content: center;
+}
+
+.box-menu {
+    display: flex;
+    text-align: center;
+    }
+
+.boxm {
+    display: flex;
+    width: 120px;
+    height: 30px;
+    background-color:white;
+    margin: 10px;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Zen Dots';
+}
+
+.buttonvideo {
+    background-color: black;
+    display: flex;
+    height: 20px;
+    margin: 0%;
+    padding: 0%;
+}
+
+.container-video {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+.buttonvideo {
+    height: 2px;
+}
+
+.foto-perfil2 {
+    display: flex;
+    width: 80%;
+}
+
+.fotopersonal {
+    font-size: 30px;
+    font-family: 'Zen Dots';
+}
+
+.container-informacion {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #E8E8E8;
+}
+.info-foto {
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    padding: 2rem;
+    font-size: 10px;
+}
+
+.foto-perfil {
+    width: 15%;
+    justify-content: center;
+}
+
+.container-imput {
+    background-color: #E8E8E8;
+}
+
+.contactame {
+    justify-content: center;
+    display: flex;
+    font-family: 'Zen Dots';
+    padding: 10px 0px 0px;
+
+}
+
+.input {
+    margin: 2%;
+}
+.submit {
+    width: 40%;
+    margin: 10px;
+}
+
+.formulario {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 20%;
+    margin-left: 40%;
+    padding: 10px 0px;
+}
+
+.logosSoc {
+    height: 25px;
+}
+
+.footer {
+    width: 100%;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #E8E8E8;
+}
